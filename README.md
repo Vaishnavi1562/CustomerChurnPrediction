@@ -153,21 +153,23 @@ Introduce loyalty benefits for long-tenure customers.
 Customer-Churn-Analysis/
 │
 ├── data/
-│   └── customer_churn.csv
+│   └── customerchurn.csv
 │
 ├── notebooks/
-│   └── churn_analysis_eda.ipynb
+│   └── customer_churn.ipynb
 │
 ├── sql/
-│   └── churn_views.sql
+│   └── custchurn.sql
 │
 ├── dashboard/
-│   └── churn_dashboard.pbix
+│   └── customerchurn.pbix
 │
 ├── README.md
 
 
 -Author
 Vaishnavi Sharma
+
 Aspiring Data Scientist | Data Analyst
+
 Skills: Python | SQL | Power BI | Machine Learning
